@@ -1,0 +1,40 @@
+html{
+    text-align:left;
+    color:burlywood;
+    /* background-color: black; */
+}
+
+/* *{
+    background-color: aliceblue;
+} */
+
+.class{
+    border-radius: 40px;
+    box-shadow: 0 2px 5px red;
+    height: 100px;
+    width: 100px;
+    /* margin: 15px 20px 25px 30px; */
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+div.p{
+    color: blue;
+}
+
+div h2, div h3 {
+    font-weight: 700;
+    color:black;
+}
+
+.border{
+    /* border:5px black solid; */
+    border-radius: 5px;
+    border-color:black;
+    border-style:dashed;
+    border-width: 5px;
+
+    margin:15px;
+    padding:15px;
+
+}
